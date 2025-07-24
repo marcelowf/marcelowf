@@ -1,8 +1,8 @@
 <main style="width: 100%;">
 
-<div style="width: 100%;">
-    <img src="imgs/header.gif" alt="Header" align="center" style="width: 100%; object-fit: cover; object-position: 50% 50%;"/>
-</div>
+<p align="center">
+  <img src="imgs/header.gif" alt="Header" width="1000" />
+</p>
 
 </br>
 
