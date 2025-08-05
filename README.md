@@ -73,7 +73,7 @@ namespace GitHubProfile
 
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; gap: 0.5rem; margin-top: 1rem;">
 
-[![Techs](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,docker,visualstudio,java,python,terraform,grafana,prometheus,js,ts,html,css,aws,nodejs,eclipse,gherkin,obsidian,postman,figma,git,vscode,powershell,&perline=9)](https://skillicons.dev)
+[![Techs](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,docker,visualstudio,java,python,terraform,grafana,prometheus,graphql,mongo,js,ts,html,css,aws,nodejs,eclipse,gherkin,obsidian,postman,figma,git,vscode,powershell,&perline=9)](https://skillicons.dev)
 </div>
 
 <h3 align="center" style=" margin-top: 2rem; font-size: 1.5rem;">Connect With Me</h3>
