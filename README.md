@@ -6,7 +6,7 @@
 
 </br>
 
-<h1 align="center">Hi 👋, I'm Marcelo</h1>
+<h1 align="center">Hi, I'm Marcelo</h1>
 
 <h3 align="center" style="padding: 0px 20px;">
    Passionate .NET & C# developer focused on cloud-native solutions with Azure, Azure DevOps and Terraform.
@@ -75,6 +75,17 @@ namespace GitHubProfile
 
 [![Techs](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,docker,visualstudio,java,python,terraform,grafana,prometheus,graphql,mongo,js,ts,html,css,aws,nodejs,eclipse,gherkin,obsidian,postman,figma,git,vscode,powershell,&perline=9)](https://skillicons.dev)
 </div>
+
+<!-- ```mermaid
+timeline
+    title ⚙️ Tech Stack Evolution
+    2022 : Python 🐍 | Primeiros scripts, análise de dados
+    2023 : Java ☕ | Orientação a objetos, APIs REST
+    2024 : .NET ⚡ | Angular 🅰️ | ☁️ Azure & DevOps | Fullstack e Cloud
+    2025 : Arquitetura 🏗️ | Microsserviços 🔗 | Aplicações escaláveis 🚀
+``` -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelowf&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook,c) -->
 
 <h3 align="center" style=" margin-top: 2rem; font-size: 1.5rem;">Connect With Me</h3>
 
