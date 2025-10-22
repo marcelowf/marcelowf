@@ -9,14 +9,14 @@
 <h1 align="center">Hi, I'm Marcelo</h1>
 
 <h3 align="center" style="padding: 0px 20px;">
-   Passionate .NET & C# developer focused on cloud-native solutions with Azure, Azure DevOps and Terraform.
+   Passionate .NET & C# developer focused on cloud-native solutions with AWS, Azure, Gitlab, Azure DevOps and Terraform.
 </h3>
 
 </br>
 
-- 🔭 I’m currently working at <a href="https://www.volvo.com/" target="_blank">Volvo</a>  
+- 🔭 I’m currently working at <a href="https://www.segfy.com/" target="_blank">SegFy</a>  
 - 🌱 Currently learning: Machine Learning, Prompt Engineering, and .NET technologies  
-- ⚡ Working on a personal project: **LineNex**, focused on industrial automation
+- ⚡ Working on a personal project: **Luminia**, focused on IA automation
 
 </br>
 
@@ -73,7 +73,7 @@ namespace GitHubProfile
 
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; gap: 0.5rem; margin-top: 1rem;">
 
-[![Techs](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,docker,visualstudio,java,python,terraform,grafana,prometheus,graphql,mongo,js,ts,html,css,aws,nodejs,eclipse,gherkin,obsidian,postman,figma,git,vscode,powershell,&perline=9)](https://skillicons.dev)
+[![Techs](https://skillicons.dev/icons?i=dotnet,cs,azure,angular,docker,visualstudio,java,python,firebase,flutter,terraform,grafana,prometheus,graphql,postgres,mongo,js,ts,html,css,aws,nodejs,eclipse,gherkin,obsidian,postman,figma,git,vscode,powershell,&perline=10)](https://skillicons.dev)
 </div>
 
 <!-- ```mermaid
